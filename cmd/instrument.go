@@ -16,7 +16,7 @@ import (
 
 const (
 	defaultAgentVariableName = "NewRelicAgent"
-	defaultPackageName       = "./..."
+	defaultPackageName       = "./"
 	defaultPackagePath       = ""
 	defaultAppName           = ""
 	defaultOutputFilePath    = ""
