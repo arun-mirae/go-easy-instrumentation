@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/newrelic/go-easy-instrumentation/cmd"
+	"github.com/arun-mirae/go-easy-instrumentation/cmd"
 )
 
 func main() {
