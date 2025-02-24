@@ -6,10 +6,10 @@ import (
 
 	"github.com/dave/dst"
 	"github.com/dave/dst/dstutil"
-	"github.com/newrelic/go-easy-instrumentation/internal/codegen"
-	"github.com/newrelic/go-easy-instrumentation/internal/comment"
-	"github.com/newrelic/go-easy-instrumentation/internal/common"
-	"github.com/newrelic/go-easy-instrumentation/parser/tracestate"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/codegen"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/comment"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/common"
+	"github.com/arun-mirae/go-easy-instrumentation/parser/tracestate"
 )
 
 // TraceFunction adds tracing to a function. This includes error capture, and passing agent metadata to relevant functions and services.

@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/dave/dst"
-	"github.com/newrelic/go-easy-instrumentation/internal/codegen"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/codegen"
 	"github.com/stretchr/testify/assert"
 )
 

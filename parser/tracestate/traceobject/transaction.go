@@ -3,8 +3,8 @@ package traceobject
 import (
 	"github.com/dave/dst"
 	"github.com/dave/dst/decorator"
-	"github.com/newrelic/go-easy-instrumentation/internal/codegen"
-	"github.com/newrelic/go-easy-instrumentation/internal/util"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/codegen"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/util"
 )
 
 const (

@@ -29,8 +29,8 @@ import (
 	"github.com/dave/dst"
 	"github.com/dave/dst/decorator"
 	"github.com/dave/dst/dstutil"
-	"github.com/newrelic/go-easy-instrumentation/parser/facts"
-	"github.com/newrelic/go-easy-instrumentation/parser/tracestate"
+	"github.com/arun-mirae/go-easy-instrumentation/parser/facts"
+	"github.com/arun-mirae/go-easy-instrumentation/parser/tracestate"
 )
 
 // StatefulTracingFunction defines a function that requires knowledge of the state of New Relic tracing

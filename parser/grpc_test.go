@@ -9,8 +9,8 @@ import (
 
 	"github.com/dave/dst"
 	"github.com/dave/dst/decorator"
-	"github.com/newrelic/go-easy-instrumentation/internal/codegen"
-	"github.com/newrelic/go-easy-instrumentation/parser/facts"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/codegen"
+	"github.com/arun-mirae/go-easy-instrumentation/parser/facts"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/tools/go/packages"
 )

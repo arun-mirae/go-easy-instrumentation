@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 
 	"github.com/dave/dst/decorator"
-	"github.com/newrelic/go-easy-instrumentation/internal/comment"
-	"github.com/newrelic/go-easy-instrumentation/parser"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/comment"
+	"github.com/arun-mirae/go-easy-instrumentation/parser"
 	"github.com/spf13/cobra"
 	"golang.org/x/tools/go/packages"
 )

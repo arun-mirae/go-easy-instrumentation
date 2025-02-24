@@ -14,10 +14,10 @@ import (
 	"github.com/dave/dst/decorator"
 	"github.com/dave/dst/decorator/resolver/gopackages"
 	"github.com/dave/dst/dstutil"
-	"github.com/newrelic/go-easy-instrumentation/internal/util"
-	"github.com/newrelic/go-easy-instrumentation/parser/errorcache"
-	"github.com/newrelic/go-easy-instrumentation/parser/facts"
-	"github.com/newrelic/go-easy-instrumentation/parser/tracestate"
+	"github.com/arun-mirae/go-easy-instrumentation/internal/util"
+	"github.com/arun-mirae/go-easy-instrumentation/parser/errorcache"
+	"github.com/arun-mirae/go-easy-instrumentation/parser/facts"
+	"github.com/arun-mirae/go-easy-instrumentation/parser/tracestate"
 	godiffpatch "github.com/sourcegraph/go-diff-patch"
 )
 
