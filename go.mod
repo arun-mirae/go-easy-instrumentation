@@ -10,8 +10,6 @@ require (
 	golang.org/x/tools v0.28.0
 )
 
-replace github.com/newrelic/go-easy-instrumentation => github.com/arun-mirae/go-easy-instrumentation
-
 require golang.org/x/sync v0.10.0 // indirect
 
 require (
