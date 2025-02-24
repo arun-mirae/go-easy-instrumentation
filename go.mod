@@ -1,4 +1,4 @@
-module github.com/newrelic/go-easy-instrumentation
+module github.com/arun-mirae/go-easy-instrumentation
 
 go 1.23.2
 
